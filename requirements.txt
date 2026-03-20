@@ -2,3 +2,5 @@ streamlit
 rdkit
 pandas
 Pillow
+st-mol
+py3Dmol
