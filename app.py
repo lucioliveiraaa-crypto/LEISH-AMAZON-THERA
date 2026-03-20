@@ -1,6 +1,8 @@
 import streamlit as st
+import streamlit as st
 from rdkit import Chem
-from rdkit.Chem import AllChem, Draw, Descriptors
+from rdkit.Chem import AllChem, Descriptors, Draw
+import pandas as pd
 import pandas as pd
 
 # METADADOS DE AUTORIA (INPI)
